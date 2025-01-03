@@ -1,0 +1,4 @@
+A terceira aba esta com o gráfico de analise desabilitado, pois ela funciona com AI.
+E neste caso, ele não funciona com compartilhamento de link web gratuito, apenas 
+com a versão paga, ou abrindo com o login de administrador no portal do Power bi web. 
+
